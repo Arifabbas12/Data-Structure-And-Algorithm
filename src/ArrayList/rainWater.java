@@ -18,7 +18,6 @@ public class rainWater {
            }else{
                rp--;
            }
-
         }
         return maxWater;
     }
